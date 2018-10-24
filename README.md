@@ -1,5 +1,7 @@
 # Deep-Ensemble
 
-[Deep-Ensemble](./image/en - 복사본.png )
+<img src="/image/en - 복사본.png" width="400" height="200">
 
-[Dropout-Bayesian](./drop - 복사본.png )
+
+<img src="/image/drop - 복사본.png" width="400" height="200">
+
