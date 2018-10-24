@@ -1,7 +1,7 @@
 # Deep-Ensemble
 
-<img src="/image/en - 복사본.png" width="400" height="200">
+<img src="/image/ensemble.jpg" width="400" height="200">
 
 
-<img src="/image/drop - 복사본.png" width="400" height="200">
+<img src="/image/dropout.jpg" width="400" height="200">
 
